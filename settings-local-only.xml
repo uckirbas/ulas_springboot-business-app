@@ -7,7 +7,8 @@
       <repositories>
         <repository>
           <id>local-m2-repository</id>
-          <url>file://local-m2-repository</url> 			  
+     
+		<url>file://c/sba/local-m2-repository</url> 	  
           <releases>
             <enabled>true</enabled>
             <updatePolicy>always</updatePolicy>
@@ -21,7 +22,7 @@
       <pluginRepositories>
         <pluginRepository>
           <id>local-m2-repository-plugins</id>
-          <url>file://local-m2-repository</url>			  
+          <url>file://c/sba/local-m2-repository</url> 	 		  
           <releases>
             <enabled>true</enabled>
             <updatePolicy>always</updatePolicy>
